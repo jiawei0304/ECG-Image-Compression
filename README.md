@@ -13,7 +13,7 @@ The goal of this project is to explore and compare different image compression t
 This project investigates **three base compression methods**:
 
 -  **Discrete Wavelet Transform (DWT)**
--  **Convolutional Autoencoder (CAE)** 
+-  **Convolutional Autoencoder (CAE)**
 -  **Context-Adaptive Lossless Image Compression (CALIC)**
 
 To enhance compression performance, **entropy coding techniques** are combined with these base methods:
