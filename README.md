@@ -18,8 +18,8 @@ This project investigates **three base compression methods**:
 
 To enhance compression performance, **entropy coding techniques** are combined with these base methods:
 
-- 🗜️ **Huffman Coding (HC)**
-- 🧮 **Arithmetic Coding (AC)**
+-  **Huffman Coding (HC)**
+-  **Arithmetic Coding (AC)**
 
 ### 🔧 Final Compression Variants Compared
 
