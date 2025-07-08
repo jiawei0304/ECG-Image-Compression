@@ -39,8 +39,11 @@ To enhance compression performance, **entropy coding techniques** are combined w
 
 ## 📂 Dataset
 
-The ECG image dataset used in this study is derived from the **MIT-BIH Arrhythmia Database**.  
+The ECG image dataset used in this study is derived from the **MIT-BIH Arrhythmia Database**. 
+Link for get dataset: https://www.physionet.org/content/mitdb/1.0.0/
 Each ECG signal was first visualized as a 2D image, then resized and preprocessed before applying the compression methods.
+In this project is get the first 10 sec from each set for the data.
+In the part for training dataset used in CAE is generated using the same conversion method, i.e., one ECG image is generated every ten seconds, resulting in a total of approximately 8,500 ECG images. The first ECG image from each dataset is then removed for testing.
 
 ---
 
